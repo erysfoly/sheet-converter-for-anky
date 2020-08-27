@@ -5,7 +5,7 @@ This is a little script to extract Google Sheet document to .txt file and then i
 
 ## Installation
 
-1. Create a Google Sheet document or use an existing sheet. You can use this template if you don't want to bother with formatting: [Sheet template for Anki](https://docs.google.com/spreadsheets/d/1auzOmFewXUEI4mhCxcd1vTrpbiLbwbxaS9IoLp9ruok/edit?usp=sharing).
+1. Create a Google Sheet document or use an existing sheet. You can use this template (create a copy) if you don't want to bother with formatting: [Sheet template for Anki](https://docs.google.com/spreadsheets/d/1auzOmFewXUEI4mhCxcd1vTrpbiLbwbxaS9IoLp9ruok/edit?usp=sharing). Feel free to change column names if you want.
 2. Go to **Tools** and then **Script editor**.
 3. Copy/paste the code of this repository into the blank page. /!\ Be careful to delete this code before : 
 ```
