@@ -8,10 +8,12 @@ This is a little script to extract Google Sheet document to .txt file and then i
 1. Create a Google Sheet document or use an existing sheet. You can use this template if you don't want to bother with formatting : https://docs.google.com/spreadsheets/d/1auzOmFewXUEI4mhCxcd1vTrpbiLbwbxaS9IoLp9ruok/edit?usp=sharing.
 2. Go to "Tools" and then "Script editor".
 3. Copy/paste the code of this repository into the blank page. /!\ Be careful to delete this code before : 
-  ```function myFunction() {
-  
-  }
-  ```
+```
+function myFunction() {
+
+}
+```
+
 4. Save and close script editor.
 5. On your Sheet document, go to "Tools" and then "Macros". Click "Import".
 6. A dialog will open. At this moment, click "Add function". Close the dialog.
